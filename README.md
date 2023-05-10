@@ -6,6 +6,7 @@
 </div>
 
 ### 😠 In Progress...</br>
+- 42 서울 Member(23.05.09 ~ )
 
 ### 🤗 Done!!!</br>
 <div align='left'>
@@ -13,7 +14,7 @@
  </div>
 
 - 42 서울 Cadet (21.05.05 ~ 23.05.09) 
-- 42 서울 Member(23.05.09 ~ )
+
 
 <!-- - [지스트 청원](https://www.gist-petition.com/) (21.07.01 ~ ) <img align="center" height="22px" src="https://img.shields.io/badge/React-61DAFB??style=for-the-badge&logo=React&logoColor=white"/> <img align="center" height="22px" src="https://img.shields.io/badge/TypeScript-3178C6??style=for-the-badge&logo=TypeScript&logoColor=white"/>  -->
 
