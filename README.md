@@ -10,14 +10,15 @@
  <img align="center" height="30px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 	 
 </div> -->
 
-- 42 서울 Member(23.05.09 ~ )<img align="center" height="22px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
+
+- 42 서울 Member(23.05.09 ~ )<a href="https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8" target="_blank"><img align="center" height="22px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 
 ### 🤗 Done!!!</br>
 <!-- <div align='center'>
  <img align="center" height="30px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 	 
 </div> -->
 
-- 42 서울 Cadet (21.05.05 ~ 23.05.09)<img align="center" height="22px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
+- 42 서울 Cadet (21.05.05 ~ 23.05.09)<a href="https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8" target="_blank"><img align="center" height="22px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 
 ### Language
 <div align="center">  
