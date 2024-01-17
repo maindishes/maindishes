@@ -36,35 +36,31 @@
 </div> 
 </td><td valign="top" width="33%">
 
-### Status 	
-<div align="center">
-<!-- ![](https://leetcard.jacoblin.cool/{username}?ext=heatmap)   -->
-<img width="495px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo">
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo"> -->
+### Status
+<div style="display:flex" align="center">
+
+  <a target="_blank" rel="noreferrer noopener" href="https://solved.ac/profile/dododoo">
+    <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo">
+  </a>
+
+</div>
+<div style="display:flex" align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maindishes&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
+
+</div>
+
+<br/>
+
+<div style="display:flex" align="center">
+
+
 </div>
 
 ## Contact Me 
 <!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
-<!-- 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>     -->
-
-<br/>
 <p align="left">
 	<a href="https://velog.io/@maindish"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-round&logo=Vimeo&logoColor=white&link=https://velog.io/@dogfootbirdfoot"/></a>&nbsp
-	<!-- <a href="https://www.instagram.com/keonwoo98"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-round&logo=Instagram&logoColor=white&link=https://www.instagram.com/keonwoo98"/></a>&nbsp -->
 	<a href="mailto:42.4.junyopar@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=keonwoo98@naver.com"/></a>
 </p>
-
-<!-- <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div> -->
-<br />
+<!-- BLOG-POST-LIST:END -->  
