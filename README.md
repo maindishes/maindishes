@@ -1,10 +1,4 @@
 
-<div align="center">
-<!-- ![](https://leetcard.jacoblin.cool/{username}?ext=heatmap)   -->
-<img width="495px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo">
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo"> -->
-</div>
-
 ### 😠 In Progress...</br>
 <!-- <div align='center'>
  <img align="center" height="30px" src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/> 	 
@@ -42,6 +36,12 @@
 </div> 
 </td><td valign="top" width="33%">
 
+### Status 	
+<div align="center">
+<!-- ![](https://leetcard.jacoblin.cool/{username}?ext=heatmap)   -->
+<img width="495px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo">
+<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dododoo"> -->
+</div>
 
 ## Contact Me 
 <!-- BLOG-POST-LIST:START -->  
