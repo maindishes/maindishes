@@ -3,12 +3,18 @@
 
 
 ### I am a ...
-	Member. 42 Seoul.
-	4-Term Cadet. 42 Seoul.
- 	1-Term Completion.gj-aischool
+- Member. 42 Seoul.
+- 4-Term Cadet. 42 Seoul.
+- 1-Term Completion. gj-aischool.
+  
+What is [42 Seoul?](https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8) 
+, [gj-aischool?](https://gj-aischool.or.kr/info/story/)
+  
+### Project
++ [🕹️Dr.pong - github](https://github.com/Dr-Pong) | ~~https://drpong.co~~
 
 ### Tech Skill
-<div align="center">  
+<div align="center">
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
