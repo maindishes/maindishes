@@ -12,6 +12,7 @@ What is [42 Seoul?](https://innovationacademy.kr/academy/contents/view?contentsN
   
 ### Project
 + [🕹️Dr.pong - github](https://github.com/Dr-Pong) | ~~https://drpong.co~~
++ [42Transendence - github](https://github.com/42-TRANSENDENCE)
 
 ### Tech Skill
 <div align="center">
